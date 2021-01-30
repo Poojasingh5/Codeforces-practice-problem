@@ -14,6 +14,7 @@ int main()
     t=1;
   while(t--)
   {
+      
      double n,m,k;
      cin>>n>>m>>k;
      cout<<ll(ceil(n/k))*ll(ceil(m/k));
