@@ -34,6 +34,5 @@ int main()
 	    sort(count,count+101,greater<ll>());
 	    cout<<count[0]<<ln;
 	}
-	
 	return 0;
 }
